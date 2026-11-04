@@ -135,3 +135,9 @@ Your controls also reach PCSX2, so check them against its own settings:
 ## Reporting problems
 
 When opening an issue, include your PCSX2 and Python versions, confirm the game's serial is `SCUS-97367`, and describe what happened. Include any error text from the console and any controls you changed.
+
+## Credits and Usage
+
+This project was developed entirely by Claude, Anthropic’s AI assistant.
+
+You’re welcome to use, modify, redistribute, or build on it however you see fit. No credit or attribution to me is required.
